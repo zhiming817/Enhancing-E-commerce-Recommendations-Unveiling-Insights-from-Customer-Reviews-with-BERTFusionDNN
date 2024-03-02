@@ -22,4 +22,10 @@ Zhao, Z., Zhang, N., Xiong, J., Feng, M., Jiang, C., & Wang, X. (2024). Enhancin
 }
 ```
 
-  
+## Authors
+1. @ [Zhiming Zhao](https://github.com/zhiming817)   <br>
+2. <br>
+3. <br>
+4. <br>
+5. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang)  <br>
+6. <br>
