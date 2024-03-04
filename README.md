@@ -25,7 +25,7 @@ Zhao, Z., Zhang, N., Xiong, J., Feng, M., Jiang, C., & Wang, X. (2024). Enhancin
 ## Authors
 1. @ [Zhiming Zhao](https://github.com/zhiming817)   <br>
 2. @ [Ning Zhang](https://github.com/zning1994)   <br>
-3. <br>
+3. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
 4. @ [Mingyang Feng](https://github.com/1366560t)   <br>
 5. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang)  <br>
 6. <br>
