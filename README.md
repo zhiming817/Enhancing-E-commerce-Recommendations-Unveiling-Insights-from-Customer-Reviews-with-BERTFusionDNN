@@ -28,4 +28,4 @@ Zhao, Z., Zhang, N., Xiong, J., Feng, M., Jiang, C., & Wang, X. (2024). Enhancin
 3. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
 4. @ [Mingyang Feng](https://github.com/1366560t)   <br>
 5. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang)  <br>
-6.@ [Xiaosong Wang](https://github.com/XiasongWangcode)  <br>
+6. @[Xiaosong Wang](https://github.com/XiasongWangcode)  <br>
